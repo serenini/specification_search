@@ -1,2 +1,2 @@
 This repository contains the complete results for the simulations experiment that compares the Specific to General (STGE) and the General to Specific (GETS) strategies in the spatial econometrics specification search.
-Heatmaps are inside the respective folders and a collection of .gif files is available in the folder [ANIMATIONS](url) for better visualization.
+Heatmaps are inside the respective folders and a collection of .gif files is available in the folder [ANIMATIONS]([url](https://github.com/serenini/specification_search/tree/main/ANIMATIONS)https://github.com/serenini/specification_search/tree/main/ANIMATIONS) for better visualization.
